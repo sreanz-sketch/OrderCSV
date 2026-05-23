@@ -1,0 +1,82 @@
+[
+  {
+    "so_number": "SO-00002328",
+    "customer": "Bracey Electrical",
+    "date": "21 May 2026, 06:58 PM",
+    "line_count": 3,
+    "total_qty": 13,
+    "csv_path": "C:\\Users\\srean\\OneDrive - Marathon Products\\Marathon Products Limited\\Warehouse\\Orders suspended\\SO-00002328.csv"
+  },
+  {
+    "so_number": "SO-00002327",
+    "customer": "Whangamata Marina",
+    "date": "21 May 2026, 11:34 AM",
+    "line_count": 1,
+    "total_qty": 1,
+    "csv_path": "C:\\Users\\srean\\OneDrive - Marathon Products\\Marathon Products Limited\\Warehouse\\Orders suspended\\SO-00002327.csv"
+  },
+  {
+    "so_number": "SO-00002325",
+    "customer": "Port Marlborough New Zealand Ltd",
+    "date": "20 May 2026, 10:05 PM",
+    "line_count": 2,
+    "total_qty": 5,
+    "csv_path": "C:\\Users\\srean\\OneDrive - Marathon Products\\Marathon Products Limited\\Warehouse\\Orders suspended\\SO-00002325.csv"
+  },
+  {
+    "so_number": "SO-00002318",
+    "customer": "JA Russell Ltd",
+    "date": "20 May 2026, 09:49 PM",
+    "line_count": 0,
+    "total_qty": 0,
+    "csv_path": "C:\\Users\\srean\\OneDrive - Marathon Products\\Marathon Products Limited\\Warehouse\\Orders suspended\\SO-00002318.csv"
+  },
+  {
+    "so_number": "SO-00002324",
+    "customer": "Port Marlborough New Zealand Ltd",
+    "date": "20 May 2026, 09:48 PM",
+    "line_count": 1,
+    "total_qty": 2,
+    "csv_path": "C:\\Users\\srean\\OneDrive - Marathon Products\\Marathon Products Limited\\Warehouse\\Orders suspended\\SO-00002324.csv"
+  },
+  {
+    "so_number": "SO-00002310",
+    "customer": "Whalewatch Kaikoura",
+    "date": "17 May 2026, 08:06 AM",
+    "line_count": 3,
+    "total_qty": 7,
+    "csv_path": "C:\\Users\\srean\\OneDrive - Marathon Products\\Marathon Products Limited\\Warehouse\\Orders suspended\\SO-00002310.csv"
+  },
+  {
+    "so_number": "SO-00002317",
+    "customer": "Port Denarau Marina",
+    "date": "17 May 2026, 07:44 AM",
+    "line_count": 2,
+    "total_qty": 14,
+    "csv_path": "C:\\Users\\srean\\OneDrive - Marathon Products\\Marathon Products Limited\\Warehouse\\Orders suspended\\SO-00002317.csv"
+  },
+  {
+    "so_number": "SO-00002319",
+    "customer": "JA Russell Ltd",
+    "date": "16 May 2026, 05:45 PM",
+    "line_count": 5,
+    "total_qty": 30,
+    "csv_path": "C:\\Users\\srean\\OneDrive - Marathon Products\\Marathon Products Limited\\Warehouse\\Orders suspended\\SO-00002319.csv"
+  },
+  {
+    "so_number": "SO-00002320",
+    "customer": "Port Marlborough New Zealand Ltd",
+    "date": "16 May 2026",
+    "line_count": 1,
+    "total_qty": 1,
+    "csv_path": "C:\\Users\\srean\\OneDrive - Marathon Products\\Marathon Products Limited\\Warehouse\\Orders suspended\\SO-00002320.csv"
+  },
+  {
+    "so_number": "SO-00002321",
+    "customer": "Whalewatch Kaikoura",
+    "date": "16 May 2026",
+    "line_count": 1,
+    "total_qty": 2,
+    "csv_path": "C:\\Users\\srean\\OneDrive - Marathon Products\\Marathon Products Limited\\Warehouse\\Orders suspended\\SO-00002321.csv"
+  }
+]
